@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Natural Language Processing, Machine Learning, Deep Learning
 - 📫 How to reach me: 
 phone: 6305514522
-email: makkavenu1212@gmail.com
+email: makkavenu.datascientist@gmail.com
 
 <!---
 makkavenu/makkavenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
