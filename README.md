@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venu Makka
-- 👀 I’m interested in NLP and Data science
+- 👀 I’m interested in Generative AI, NLP and Data science
 - 🌱 I’m currently learning Deep learning, Data structures and Algorithms
 - 💞️ I’m looking to collaborate on Natural Language Processing, Machine Learning, Deep Learning
 - 📫 How to reach me: 
